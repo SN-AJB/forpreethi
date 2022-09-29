@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Write access to the Incident's Additional comments field</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_incident_comments_write</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-26 15:38:51</sys_created_on>
+        <sys_id>2c06e89ac3a13010a282a539e540dd79</sys_id>
+        <sys_name>sn_incident_comments_write</sys_name>
+        <sys_package display_value="ITSM Roles - Incident Management (do not activate, see plugin description)" source="com.snc.itsm.roles.incident_management">be038b431b6701106a2855b42a4bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="For Preethi">05ef4b241b9699106a2855b42a4bcb5e</sys_scope>
+        <sys_update_name>sys_user_role_2c06e89ac3a13010a282a539e540dd79</sys_update_name>
+    </sys_user_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="For Preethi">05ef4b241b9699106a2855b42a4bcb5e</claim_owner_scope>
+        <claim_timestamp>1838a23d18e0000001</claim_timestamp>
+        <metadata_update_name>sys_user_role_2c06e89ac3a13010a282a539e540dd79</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>For Preethi</previous_claim_name>
+        <previous_claim_scope>05ef4b241b9699106a2855b42a4bcb5e</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 16:45:46</sys_created_on>
+        <sys_id>260157281b9699106a2855b42a4bcb54</sys_id>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="For Preethi">05ef4b241b9699106a2855b42a4bcb5e</claim_owner_scope>
+        <claim_timestamp>1838a23d18d0000001</claim_timestamp>
+        <metadata_update_name>sys_user_role_2c06e89ac3a13010a282a539e540dd79</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.itsm.roles.incident_management</previous_claim_name>
+        <previous_claim_scope>com.snc.itsm.roles.incident_mana</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 16:45:46</sys_created_on>
+        <sys_id>e60157281b9699106a2855b42a4bcb54</sys_id>
+    </sys_claim>
+</record_update>

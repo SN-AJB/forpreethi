@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 23:50:03</sys_created_on>
+        <sys_id>03c4340973101010dff9d1bd04f6a70a</sys_id>
+        <sys_name>.sn_incident_write</sys_name>
+        <sys_package display_value="">e75b93c1c373001035ae3f52c1d3aecd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="For Preethi">05ef4b241b9699106a2855b42a4bcb5e</sys_scope>
+        <sys_ui_action display_value="">f03d1911c3ab001035ae3f52c1d3ae73</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_03c4340973101010dff9d1bd04f6a70a</sys_update_name>
+        <sys_user_role display_value="sn_incident_write" name="sn_incident_write">260c203a870033000e56d61e36cb0bbc</sys_user_role>
+    </sys_ui_action_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="For Preethi">05ef4b241b9699106a2855b42a4bcb5e</claim_owner_scope>
+        <claim_timestamp>1838a23d2df0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_action_role_03c4340973101010dff9d1bd04f6a70a</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>For Preethi</previous_claim_name>
+        <previous_claim_scope>05ef4b241b9699106a2855b42a4bcb5e</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 16:45:47</sys_created_on>
+        <sys_id>360157281b9699106a2855b42a4bcb69</sys_id>
+    </sys_claim>
+</record_update>
